@@ -8,7 +8,6 @@ Solves sudoku puzzles using convolutional neural networks.
 - **`python`** - `3.7`
 - **`keras`** -  `2.4.3`
 - **`tensorflow`** -  `2.2.0`
-- 
 ---
 ### Project Content
 
